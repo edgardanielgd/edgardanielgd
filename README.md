@@ -9,9 +9,11 @@ As you may expect, i love videogames (even thought i'm not really good), but als
 
 ### 🔴🔴🔴 Be more specific...
 
-Well, currently i'm learning and putting into practice all of the Tensorflow features i've learned so far, i used to go against the system and tried to develop my own neural network frameworks applied to small problems (yes, the classic MNIST problem), you can see my attempts working on that with some friends here: https://github.com/edgardanielgd/Algoritmos-2022-2-2 \
+Well, currently im learning and putting into practice all of the Tensorflow features i've learned so far, i used to go against the system and tried to develop my own neural network frameworks applied to small problems (yes, the classic MNIST problem), you can see my attempts working on that with some friends here: https://github.com/edgardanielgd/Algoritmos-2022-2-2
 Also, i'm learning some 3D modelling on Blender, you can see my first steps (with the same friends) here: https://github.com/edgardanielgd/TheRealTowerDefense
-I'm planning to create a videogame to learn Unreal Engine as well. \
+
+I'm planning to create a videogame to learn Unreal Engine as well.
+
 Finally, i'm seeking for challenging projects that require me to work with Rust, which i really loved when i worked with it, see: https://github.com/ArquisoftUNAL/habits_ms
 
 ## 🟡🟡🟡 Where can i be helpful?
