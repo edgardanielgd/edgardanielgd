@@ -26,7 +26,7 @@ However, i would prefer to work on applied machine learning in near future, espe
 
 ## 🟣🟣🟣 How to reach me?
 
-Mainly, you can profundize this short brief by checking out my [Portfolio](https://edgar-gonzalez.static.domains/)
+Mainly, you can profundize this short brief by checking out my [Portfolio](https://edgardanielgd.github.io/Portfolio/)
 
 You can always contact me through [email](edgardanielgd123@gmail.com)
 
